@@ -2,6 +2,17 @@ const gradingStuent=(grades)=> {
       
              var output=[]
 
+//        let finalGrae=grades.map((grade)=>
+//          {
+//         return  grade>=38 && grade%5>=3 ? grade-(grade%5)+5 : grade
+//          }
+//        )
+//    return finalGrae
+
+
+
+
+
              for(var i=0;i<grades.length;i++)
                {
 
